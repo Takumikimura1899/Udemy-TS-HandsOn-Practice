@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Takumikimura1899/Udemy-TS-HandsOn-Practice/issues"
   },
-  "homepage": "https://github.com/Takumikimura1899/Udemy-TS-HandsOn-Practice#readme"
+  "homepage": "https://github.com/Takumikimura1899/Udemy-TS-HandsOn-Practice#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
