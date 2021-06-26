@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Takumikimura1899/Udemy-TS-HandsOn-Practice#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   }
 }
